@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,500');
+
+* {font-family: 'Roboto Mono', monospace;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap'); */
+
+/* * {
+  background-color:gold;
+}  */
+
+
+/* * {
+  background-image: url(images/jamie_home.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+} */ 
+
+
+/* 
+.cinema{
+  background:url(images/plaza_by_not_morgan_freeman_daz6zmy-fullview.jpg) center center no-repeat fixed;
+}
+
+.rollerhome {
+  background: url(Images/roller_skating_by_sasa_van_goth_d4cp2i6-fullview.jpg) center center no-repeat fixed;
+
+}
+
+.literature { background:url(images/library_by_takmaj_d7eaixx-fullview.jpg) center center no-repeat fixed;
+}
+    
+
+.music {background:url(images/music_by_marva78_d1wxbwl-fullview.jpg) center center no-repeat fixed;
+}
+
+.cooking {background:url(images/cooking_with_otto_by_briankesinger_d6mlisg-fullview.jpg)center center no-repeat fixed;
+}
+
+.workshop {background:url(images/dbonc1e-99587fc8-2aae-4539-a53b-7e85ba45fda3.jpg)center center no-repeat fixed;
+
+} 
+
+.computercode {background:url(images/d910zwg-44769459-cfb5-44e3-9d8b-913de8e380f4.jpg) center center no-repeat fixed;
+} */
+
+
+
+
+
+
+
+
+h1{ color: silver;
+  background-color: rgb(163, 143, 27);
+  border-radius: 10px;
+  display: inline-block;
+}
+
+h2 {color:rgb(211, 35, 35);
+  text-decoration: underline;
+  padding: 8px;
+  border-style: hidden;
+  border-color: hidden;
+  border-radius: 6;
+  margin-left: 15%;
+  margin-right: 15%;
+
+  background-color:rgb(238, 223, 223, .5)
+}
+
+
+P { 
+  margin-left: 10%;
+  margin-right: 10%;
+  }
+
+h3 {color: rgb(25, 114, 25);
+  margin-left: 15%;
+  margin-right: 15%
+}
+
+h5 {color:black;
+  background-color:orange;
+  font-size: 10px;
+  border-style: ridge;
+  border-color: rgb(197, 183, 104);
+  margin-left: 5%;
+  margin-right: 87%;
+  padding: 3px;
+  border-radius: 20%;
+
+}
+
+/* THE NAVBAR */
+.navbar {
+  overflow: hidden;
+  background-color: rgb(163, 143, 27);
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+/* Main content */
+.main {
+  margin-top: 50px; /* Add a top margin to avoid content overlay */
+}
+
+
+ /* home page home page home page home page home page home page */
+
+
+
+.iamjame{
+    background-image: url(Images/topright.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.iamjametoo{
+  background-image: url(./images/lowright.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* IDs TO BUFFER TO IMAGE IN ORDER FOR FIRST PAGE OF HOME PAGE */
+
+#qualarc {color:rgb(83, 4, 4);
+  margin-left: 8%;
+  margin-right: 50.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #qualarch {color:rgb(83, 4, 4);
+  margin-left: 8%;
+  margin-right:63.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+#qualarchi {color:rgb(83, 4, 4);
+  margin-left: 8%;
+  margin-right: 61.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+#qualarchiv {color:rgb(83, 4, 4);
+  margin-left: 8%;
+  margin-right: 64.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+#qualarchivi {color: rgb(83, 4, 4);
+  margin-left: 8%;
+  margin-right: 76.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #getaround {color: rgb(116, 18, 18);
+  font-size: 38px;
+  margin-left: 15%;
+  margin-right: 58.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ } 
+
+ #themain {color: rgb(83, 4, 4);
+  font-size: 22px;
+  margin-left: 9%;
+  margin-right: 43.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #themainc {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 43.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #themainco {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 46.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #themaincon {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 46.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #themaincont {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 48.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+#themainconte {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 64%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+
+
+ 
+ #linksto {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 41.4%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #linkstoo {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 43.4%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #linkstoot {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 60.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+
+ 
+ #oneach {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 42.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #oneachu {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 44.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #oneachun {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 46.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+ #oneachuni {color: rgb(83, 4, 4); font-size: 22px;
+  margin-left: 9%;
+  margin-right: 45.3%;
+  background-color: rgb(163, 143, 27);
+  border-radius: 50%
+ }
+
+
+/* HOME PAGE TWO TEXT TRYING WITH OPACITY */
+
+
+
+.home2para1{
+  font-size: 25px;
+  text-align: left;
+  color:rgba(92, 8, 9, 0.898);
+  padding: 40px 170px 10px 10px;
+  border-style: hidden;
+  border-color: hidden;
+  border-radius: 12.5%;
+  margin: 10px 600px 10px 105px;
+  background-color: rgba(225, 209, 30, 0.15);
+  -webkit-box-shadow: inset 50px -50px 50px 13px rgba(255,209,30,0.08);
+  box-shadow: inset 50px -50px 50px 13px rgba(255,209,30,0.08)
+}
+
+.home2para2{
+  font-size: 25px;
+  text-align: left;
+  color:rgba(92, 8, 9, 0.898);
+  padding: 40px 180px 10px 10px;
+  border-style: hidden;
+  border-color: hidden;
+  border-radius: 12.5%;
+  margin: 10px 600px 10px 105px;
+  background-color: rgba(225, 209, 30, 0.05);
+  -webkit-box-shadow: inset 50px -50px 50px 13px rgba(255,209,30,0.42);
+  box-shadow: inset 50px -50px 50px 13px rgba(255,209,30,0.42)
+}
+
+.home2para3{
+  font-size: 25px;
+  text-align: left;
+  color:rgba(92, 8, 9, 0.898);
+  padding: 40px 144px 10px 10px;
+  border-style: hidden;
+  border-color: hidden;
+  border-radius: 12.5%;
+  margin: 10px 600px 10px 105px;
+  background-color: rgba(225, 209, 30, 0.25);
+  -webkit-box-shadow: inset 50px -50px 50px 13px rgba(255,209,30,0.82);
+  box-shadow: inset 50px -50px 50px 13px rgba(255,209,30,0.82)
+} 
+
+
+/* acknowledgements cat related id and class */
+
+
+.thanks{
+  background-image: url(images/thanks.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+.shake{
+  background-image: url(images/shake.jpg);
+  background-image: contain;
+  background-repeat: no-repeat;
+}
+
+
+
+#cattheory{
+  margin-left:22%;
+  margin-right:22%;
+ 
+}
+
+.catface{
+  height:250px;
+  width:250px;
+  border-radius: 100%;
+  margin-left:22%;
+  margin-right:22%;
+
+}
+
+
+/* contact me page styling for my cssc card and email */
+
+.csscard{
+  height: 349.65px;
+  width: 525px;
+  border-radius:12.5%;
+  
+
+}
+
+.memail
+{background-color:yellow;
+  font-size: 30;
+  border-style: ridge;
+  border-color: rgb(197, 183, 104);
+  padding: 10px;
+  border-radius: 100%;
+  
+
+}
+
+
+
+
+
+
